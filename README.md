@@ -3,6 +3,6 @@ An implementation of a CHIP-8 emulator written in Rust. Uses [SDL2](https://gith
 
 ## Screenshots:
 
-![PONG](https://github.com/charlieboggus/chip8-rust/screenshot.png)
+![PONG](https://github.com/charlieboggus/chip8-rust/blob/master/screenshot.png)
 
-![AIRPLANE](https://github.com/charlieboggus/chip8-rust/screenshot2.png)
+![AIRPLANE](https://github.com/charlieboggus/chip8-rust/blob/master/screenshot2.png)
